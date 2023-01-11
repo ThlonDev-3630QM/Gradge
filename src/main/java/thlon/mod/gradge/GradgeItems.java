@@ -27,9 +27,22 @@ public class GradgeItems {
     public static Item dustGreenSapphire;
     public static Item CrystalGreenSapphire;
     public static Item dustBrass;
+    public static Item ingotBrass;
 
     public static void ItemRegister(){
         dustBrass = new dustBrass();
+        dustDandilas = new dustDandilas();
+        dustDandilium = new dustDandilium();
+        dustDandSteel = new dustDandSteel();
+        dustGreenSapphire = new dustGreenSapphire();
+        dustRuby = new dustRuby();
+        dustSapphire = new dustSapphire();
+        dustSteel = new dustSteel();
+        dustTungdirium = new dustTungdirium();
+        dustTungdiriumSteel = new dustTungdiriumSteel();
+        dustTungSteel = new dustTungSteel();
+        dustTungsten = new dustTungsten();
+        ingotBrass = new dustBrass();
         dustDandilas = new dustDandilas();
         dustDandilium = new dustDandilium();
         dustDandSteel = new dustDandSteel();
